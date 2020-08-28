@@ -40,3 +40,10 @@ Links:
 - [Texturing your cape (template inside)](url)
 
 If I have missed something, please contact me via Discord: @SolarPH_GFX_MC#4914
+
+
+<!--
+Local Variables:
+url: ManualPages/pagenotfound.md
+End:
+-->
