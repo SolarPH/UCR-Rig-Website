@@ -1,4 +1,4 @@
-----------------------------------------
+----------
 Build 0083
 - Bone Set Updates:
 - Fixed Shoulder Movement Bug
@@ -29,7 +29,7 @@ Importer Updates:
 
 Other Updates:
 - Included an Eyebrow, Eyelid, and Teeth set. Linkable to Head Rig.
-----------------------------------------
+----------
 Build 0084
 Importer Updates:
 - Fixed bad lines of codes that produces Index Out of Range errors (related to Skin and SSS texture verification when you go over 64x64
