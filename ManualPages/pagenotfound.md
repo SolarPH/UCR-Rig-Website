@@ -1,3 +1,4 @@
 <p align=center>
-<h1>Page under maintenance.</h1>
-<h3>Please check later...</h3>
+<font size="20">Page under maintenance.</font><br>
+<font size="12">Please check later...</font>
+</p>
