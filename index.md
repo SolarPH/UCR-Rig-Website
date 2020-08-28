@@ -5,6 +5,7 @@
 
 Links:
 - [Rig Contents](ManualPages/pagenotfound.md)
+- [Changelog](ManualPages/changelog.md)
 
 ---Importer---
 - [Setting up the Importer](ManualPages/pagenotfound.md)
