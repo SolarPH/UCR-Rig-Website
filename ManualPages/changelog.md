@@ -29,6 +29,7 @@ Importer Updates:
 
 Other Updates:
 - Included an Eyebrow, Eyelid, and Teeth set. Linkable to Head Rig.
+
 ----------
 Build 0084
 Importer Updates:
