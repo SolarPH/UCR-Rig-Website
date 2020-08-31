@@ -1,7 +1,7 @@
 # Universal Character Rig v2.2 Homepage
 ## By SolarPH
 
-# Current Build: 0083
+# Current Build: 0084
 
 Links:
 - [Rig Contents](ManualPages/pagenotfound.md)
