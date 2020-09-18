@@ -40,3 +40,8 @@ UCR Help Block Updates:
 
 ObjectBinder Updates:
 - Added the missing part of code which causes objects to not initialize position and rotation properly relative to the binder.
+
+----------
+Build 0085 (Unreleased)
+Bone Updates:
+- Removed force rotation lock bug on both Shoulder Controllers for Full FK Mode
