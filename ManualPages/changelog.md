@@ -1,6 +1,7 @@
 ----------
 Build 0083
-- Bone Set Updates:
+
+Bone Set Updates:
 - Fixed Shoulder Movement Bug
 - Added more controller types (for arms)
 - Made FK/IK Switches animatable
@@ -32,6 +33,7 @@ Other Updates:
 
 ----------
 Build 0084
+
 Importer Updates:
 - Fixed bad lines of codes that produces Index Out of Range errors (related to Skin and SSS texture verification when you go over 64x64
 
@@ -43,5 +45,6 @@ ObjectBinder Updates:
 
 ----------
 Build 0085 (Unreleased)
+
 Bone Updates:
 - Removed force rotation lock bug on both Shoulder Controllers for Full FK Mode
