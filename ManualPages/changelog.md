@@ -44,7 +44,13 @@ ObjectBinder Updates:
 - Added the missing part of code which causes objects to not initialize position and rotation properly relative to the binder.
 
 ----------
-Build 0085 (Unreleased)
+Build 0085
+
+Importer Updates:
+- Updated importer script to support the updated mesh system.
 
 Bone Updates:
 - Removed force rotation lock bug on both Shoulder Controllers for Full FK Mode
+
+Mesh Updates:
+- Merged Steve and Alex mesh. Mesh also will now follow the bone position.
