@@ -1,6 +1,6 @@
 Importer Wizard can be used to import any character at any location of the scene. The character root will also follow how the importer's orientation.
 
-![](../images/importer-setup/0001.png)
+<p align=center><img src="../images/importer-setup/0001.png"></p>
 
 1. Character Name
   > It is the character name you can assign to a character model before importing. It will reflect to the Bone, Mesh, Cape, Face, and Object Binder names.
