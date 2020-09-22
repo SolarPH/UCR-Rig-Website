@@ -8,7 +8,7 @@ Links:
 - [Changelog](ManualPages/changelog.md)
 
 ---Importer---
-- [Setting up the Importer](ManualPages/pagenotfound.md)
+- [Setting up the Importer](ManualPages/importer-setup.md)
 
 ---UCR ObjectBinder---
 - [Setting up ObjectBinder manually with the required objects](ManualPages/pagenotfound.md)
