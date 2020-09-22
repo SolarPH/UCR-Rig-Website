@@ -48,6 +48,7 @@ Build 0085
 
 Importer Updates:
 - Updated importer script to support the updated mesh system.
+- Fixed visual error with the leg part.
 
 Bone Updates:
 - Removed force rotation lock bug on both Shoulder Controllers for Full FK Mode
