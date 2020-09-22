@@ -55,3 +55,6 @@ Bone Updates:
 
 Mesh Updates:
 - Merged Steve and Alex mesh. Mesh also will now follow the bone position.
+
+Cape Updates:
+- Rotated the cape so the front face actually faces the right direction.
