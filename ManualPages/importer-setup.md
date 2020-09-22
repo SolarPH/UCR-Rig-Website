@@ -21,8 +21,8 @@ Importer Wizard can be used to import any character at any location of the scene
   
 6. Mesh Type (UCR 2.2 - 3 Types / UCR 1.3 - 2 Types)
   > Chooses which type of mesh the character will have
-  > UCR 2.2 have Freesize Mesh (Unextrudable), High-Poly Mesh (64x64), and Extra High Poly Mesh (128x128)
-  > UCR 1.3 have LowPoly Mesh (Unextrudable, only used as placeholder character), and Normal Mesh (64x64)
+  > - UCR 2.2 have Freesize Mesh (Unextrudable), High-Poly Mesh (64x64), and Extra High Poly Mesh (128x128)
+  > - UCR 1.3 have LowPoly Mesh (Unextrudable, only used as placeholder character), and Normal Mesh (64x64)
   
 7. Include Bones
   > This will dictate if you want to import the default bones for your character of choice. It can be disabled if you plan to bind your bones which has been pre-posed.
