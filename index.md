@@ -1,5 +1,8 @@
 # Current Build: 0085
 
+THIS HELP PAGES IS STILL IN PROGRESS. MOST OF THE LINKS ARE BROKEN RIGHT NOW, AND WILL BE FIXED IN LATER TIME.
+THIS SITE IS FOR UCR VERSION 2.2. HELP PAGES FOR 1.3 MAY BE DONE IF REQUESTED.
+
 Links:
 - [Rig Contents](ManualPages/rig-contents.md)
 - [Changelog](ManualPages/changelog.md)
