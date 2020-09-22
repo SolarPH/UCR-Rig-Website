@@ -6,7 +6,7 @@ THIS SITE IS FOR UCR VERSION 2.2. HELP PAGES FOR 1.3 MAY BE DONE IF REQUESTED.
 Links:
 - [Rig Contents](ManualPages/rig-contents.md)
 - [Changelog](ManualPages/changelog.md)
-https://github.com/SolarPH/UCR-Rig-Website/blob/gh-pages/index.md
+
 ---Importer---
 - [Setting up the Importer](ManualPages/importer-setup.md)
 
