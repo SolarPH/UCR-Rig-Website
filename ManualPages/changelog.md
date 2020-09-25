@@ -64,3 +64,7 @@ Build 0086
 
 Bone Updates:
 - Fixed Local IK Bug produced by IK Tag failing to update for arms.
+
+----------
+Build 0087
+- Fixed missing objects (Fingers, Capes, and Importer)
