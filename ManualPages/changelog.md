@@ -58,3 +58,9 @@ Mesh Updates:
 
 Cape Updates:
 - Rotated the cape so the front face actually faces the right direction.
+
+----------
+Build 0086
+
+Bone Updates:
+- Fixed Local IK Bug produced by IK Tag failing to update for arms.
