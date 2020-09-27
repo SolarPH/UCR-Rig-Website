@@ -68,3 +68,10 @@ Bone Updates:
 ----------
 Build 0087
 - Fixed missing objects (Fingers, Capes, and Importer)
+
+----------
+Build 0088 (Unreleased)
+
+Importer Updates:
+- Importer Core have syntax updates to match import settings.
+- Fixed Initial Layer Status
