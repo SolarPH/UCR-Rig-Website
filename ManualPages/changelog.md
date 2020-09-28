@@ -75,5 +75,8 @@ Build 0088 (Unreleased)
 Importer Updates:
 - Importer Core have syntax updates to match import settings.
 - Fixed Initial Layer Status
-- Got rid of the import lag due to Maxon's changes with script behavior (also the same for the Object Binder)
+- Got rid of the import lag due to Maxon's changes with script behavior
 - Syntax Fixes to make variable names not match any preserved word syntaxes
+
+Object Binder Changes
+- Changed the line indention on script which makes Object Binder always make the whole scene invisible while moving the Object Binder Root.
