@@ -70,7 +70,7 @@ Build 0087
 - Fixed missing objects (Fingers, Capes, and Importer)
 
 ----------
-Build 0088 (Unreleased)
+Build 0088
 
 Importer Updates:
 - Importer Core have syntax updates to match import settings.
