@@ -80,3 +80,10 @@ Importer Updates:
 
 Object Binder Changes
 - Changed the line indention on script which makes Object Binder always make the whole scene invisible while moving the Object Binder Root.
+
+---------
+Build 0089 (Unreleased)
+
+Facial Rig Updates
+- Fixed unusual artifacts on both facial rig
+- Fixed Inheritance V2 UVW Map
