@@ -84,6 +84,9 @@ Object Binder Changes
 ---------
 Build 0089 (Unreleased)
 
+Bone Set Updates:
+- Controller Visibility Fixed for Local and Global Hand controllers
+
 Facial Rig Updates
 - Fixed unusual artifacts on both facial rig
 - Fixed Inheritance V2 UVW Map
