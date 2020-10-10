@@ -90,3 +90,8 @@ Bone Set Updates:
 Facial Rig Updates
 - Fixed unusual artifacts on both facial rig
 - Fixed Inheritance V2 UVW Map
+- Fixed misread of User Data for Customizable Teeth
+
+Facial Addons Updates
+- Fixed position of Teeth Container (Reset to origin)
+- Fixed default color display of Eyebrow Color to OFF
