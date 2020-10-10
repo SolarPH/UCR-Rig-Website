@@ -85,7 +85,7 @@ Mesh Set Updates:
 - Merged Steve and Alex Mesh
 
 ---------
-Build 0089 (Unreleased)
+Build 0089
 
 Bone Set Updates:
 - Controller Visibility Fixed for Local and Global Hand controllers
