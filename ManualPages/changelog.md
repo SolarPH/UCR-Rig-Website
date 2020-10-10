@@ -81,6 +81,9 @@ Importer Updates:
 Object Binder Changes
 - Changed the line indention on script which makes Object Binder always make the whole scene invisible while moving the Object Binder Root.
 
+Mesh Set Updates:
+- Merged Steve and Alex Mesh
+
 ---------
 Build 0089 (Unreleased)
 
@@ -95,3 +98,6 @@ Facial Rig Updates
 Facial Addons Updates
 - Fixed position of Teeth Container (Reset to origin)
 - Fixed default color display of Eyebrow Color to OFF
+
+Mesh Set Updates:
+- Added a script to change SSS Mode from Steve to Alex version prior to Mesh Merge
