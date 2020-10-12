@@ -101,3 +101,9 @@ Facial Addons Updates
 
 Mesh Set Updates:
 - Added a script to change SSS Mode from Steve to Alex version prior to Mesh Merge
+
+----------
+Build 0090
+
+Mesh Set Updates:
+- Fixed Mesh Mismatch for High-Poly Tier
