@@ -107,3 +107,4 @@ Build 0090
 
 Mesh Set Updates:
 - Fixed Mesh Mismatch for High-Poly Tier
+- Fixed Mesh Lock error on Extrusion Assistant
