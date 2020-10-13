@@ -1,5 +1,9 @@
 # Current Build: 0090
 
+[![](http://img.youtube.com/vi/KCOOcPgPynE/0.jpg)](http://www.youtube.com/watch?v=KCOOcPgPynE "UCR 2.2 Showcase Video")
+
+Click the image to watch the showcase video for this rig.
+
 THIS HELP PAGES IS STILL IN PROGRESS. MOST OF THE LINKS ARE BROKEN RIGHT NOW, AND WILL BE FIXED IN LATER TIME.
 THIS SITE IS FOR UCR VERSION 2.2. HELP PAGES FOR 1.3 MAY BE DONE IF REQUESTED.
 
