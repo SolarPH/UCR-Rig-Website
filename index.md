@@ -1,4 +1,4 @@
-# Current Build: 0089
+# Current Build: 0090
 
 THIS HELP PAGES IS STILL IN PROGRESS. MOST OF THE LINKS ARE BROKEN RIGHT NOW, AND WILL BE FIXED IN LATER TIME.
 THIS SITE IS FOR UCR VERSION 2.2. HELP PAGES FOR 1.3 MAY BE DONE IF REQUESTED.
@@ -8,6 +8,7 @@ Click [Here](https://payhip.com/solarph) to jump to my rig shop page
 Links:
 - [Rig Contents](ManualPages/rig-contents.md)
 - [Changelog](ManualPages/changelog.md)
+- Full Feature List (Soon)
 
 ---Importer---
 - [Setting up and Running the Importer](ManualPages/importer-setup.md)
