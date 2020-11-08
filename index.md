@@ -1,6 +1,8 @@
 # Current Build: 0090
 
-[![](http://img.youtube.com/vi/KCOOcPgPynE/0.jpg)](http://www.youtube.com/watch?v=KCOOcPgPynE "UCR 2.2 Showcase Video")
+<p align=center>
+<a href="http://www.youtube.com/watch?v=KCOOcPgPynE"><img src="http://img.youtube.com/vi/KCOOcPgPynE/0.jpg"></a>
+</p>
 
 Click the image to watch the showcase video for this rig.
 
