@@ -1,3 +1,5 @@
+<p align=center><img src="../images/rig_renderfiles/Importer_Base.png" width="300" height="300"></p>
+
 Importer Wizard can be used to import any character at any location of the scene. The character root will also follow how the importer's orientation.
 
 <p align=center><img src="../images/importer-setup/0001.png"></p>
