@@ -109,3 +109,9 @@ Mesh Set Updates:
 - Fixed Mesh Mismatch for High-Poly Tier
 - Fixed Mesh Lock error on Extrusion Assistant
 - Fixed Extrusion Assistant Visibility Error for Alex Arms (Prior to Mesh Merge)
+
+----------
+Build 0090 HotPatch (November 08, 2020)
+
+Mesh Set Updates:
+- Fixed FreesizeMesh Head UV Map
