@@ -115,3 +115,12 @@ Build 0090 HotPatch (November 08, 2020)
 
 Mesh Set Updates:
 - Fixed FreesizeMesh Head UV Map
+
+----------
+Build 0091
+
+Importer Updates
+- Added Cape Texture Field
+
+Mesh Set Updates:
+- Fixed SSS Independency on Main Package
