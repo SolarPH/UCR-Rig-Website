@@ -125,3 +125,9 @@ Importer Updates
 
 Mesh Set Updates:
 - Fixed SSS Independency on Main Package
+
+----------
+Build 0091 LayerFix (November 29, 2020)
+
+Facial Rig Updates:
+- Removed 2 faulty nodes
