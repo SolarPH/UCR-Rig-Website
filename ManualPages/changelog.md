@@ -121,6 +121,7 @@ Build 0091
 
 Importer Updates
 - Added Cape Texture Field
+- Added CodeGen Core (Useful for copy-pasting Importer Settings, including Character Name. Can be used for bug reporting)
 
 Mesh Set Updates:
 - Fixed SSS Independency on Main Package
