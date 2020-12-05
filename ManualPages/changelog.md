@@ -131,3 +131,9 @@ Build 0091 LayerFix (November 29, 2020)
 
 Facial Rig Updates:
 - Removed 2 faulty nodes
+
+----------
+Build 0091 UserDataFix (December 05, 2020)
+
+Qube Set Updates:
+- Updated Pupil Object Reference in accordance to Facial MoCap Expansion Pack (Co-Developed with FrostTheNetwork)
