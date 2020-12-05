@@ -135,5 +135,8 @@ Facial Rig Updates:
 ----------
 Build 0091 UserDataFix (December 05, 2020)
 
+Importer Updates:
+- Added another User Data that lets you choose which to have as an Active Object after Importer Run
+
 Qube Set Updates:
 - Updated Pupil Object Reference in accordance to Facial MoCap Expansion Pack (Co-Developed with FrostTheNetwork)
