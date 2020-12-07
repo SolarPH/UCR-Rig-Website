@@ -155,8 +155,7 @@ Facial Rig Updates:
 - Minor XPresso Rebuild
 - Added a Separate Mode Eyelid Multiplier Control on the Q-Adapter
 - Added a switch that hides the Q-Adapter
-- Tweak for Compatibility: Face Animator Pack (LipSync and Face MoCap)
-- Tweak for Compatibility: Auto-Blink
+- Tweak for Compatibility: Facial Animator Pack (LipSync, AutoBlink and Face MoCap)
 
 UCR Help Block Updates:
 - Version field added.
