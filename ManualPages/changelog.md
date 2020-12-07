@@ -140,3 +140,23 @@ Importer Updates:
 
 Qube Set Updates:
 - Updated Pupil Object Reference in accordance to Facial MoCap Expansion Pack (Co-Developed with FrostTheNetwork)
+
+----------
+Build 0092
+
+Pack Updates:
+- Removed version indicator on the preset folder name itself.
+- Uses a new version indicator (You can check your version via the UCR Help Block now)
+
+Importer Updates:
+- Minor Code Rewrite
+
+Facial Rig Updates:
+- Minor XPresso Rebuild
+- Added a Separate Mode Eyelid Multiplier Control on the Q-Adapter
+- Added a switch that hides the Q-Adapter
+- Tweak for Compatibility: Face Animator Pack (LipSync and Face MoCap)
+- Tweak for Compatibility: Auto-Blink
+
+UCR Help Block Updates:
+- Version field added.
