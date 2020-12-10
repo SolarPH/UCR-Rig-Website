@@ -161,7 +161,7 @@ UCR Help Block Updates:
 - Version field added.
 
 ----------
-Build 0092 Express Patch (December 10, 2020)
+Build 0092 Express Patch (December 11, 2020)
 
 Facial Rig Updates:
 - Compatibility fixes for LipSync Override
