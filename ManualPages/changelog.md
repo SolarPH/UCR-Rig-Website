@@ -167,6 +167,3 @@ Facial Rig Updates:
 - Compatibility fixes for LipSync Override
 - Added another control (for the Lipsync Override Mode)
 - Fixed Control Switch Lag
-
-Mesh Updates:
-- Added HUD Buttons to ease up switching meshes while on Extrusion Mode
