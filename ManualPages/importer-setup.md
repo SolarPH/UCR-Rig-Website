@@ -1,3 +1,5 @@
+<h1 align = center>Setting up the Importer</h1>
+
 <p align=center><img src="../images/rig_renderfiles/Importer_Base.png" width="300" height="300"></p>
 
 Importer Wizard can be used to import any character at any location of the scene. The character root will also follow the importer's position and rotation.
