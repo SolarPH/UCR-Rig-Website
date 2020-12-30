@@ -2,7 +2,7 @@
 
 Importer Wizard can be used to import any character at any location of the scene. The character root will also follow the importer's position and rotation.
 
-<p align=center><img src="../images/importer-setup/0001.png"></p>
+<p align=center><img src="../images/PNG/0001.png"></p>
 
 Character Name
   > It is the character name you can assign to a character model before importing. It will reflect to the Bone, Mesh, Cape, Face, and Object Binder names.
@@ -13,7 +13,7 @@ Skin Path
 SSS / Subsurface Scattering File Path (Only in UCR 2.2)
   > It is the file path for the mask used by Subsurface Scattering. Usually the same as the skin file but all non-skin parts are removed. [Click here](subsurface-scattering.md) to see the SubSurface Scattering Render Samples.
   
-<p align=center><img src="../images/importer-setup/0003.png"></p>
+<p align=center><img src="../images/PNG/0003.png"></p>
   
 V3 Type (UCR 2.2) / V1 Type (UCR 1.3)
   > It is the type of face you want to use.
@@ -39,7 +39,7 @@ Cape Type
 Importer Code
   > - Current Code is a copy-able code which you can use in other importers present on the scene, or save in your notes so that you just need to type the code in the New Code field that sets the value of each settings in the Importer (Excluding skin and SSS data).
 
-<p align=center><img src="../images/importer-setup/0002.png"></p>
+<p align=center><img src="../images/PNG/0002.png"></p>
 
 Run
   > When all is valid, pressing this button will import your character. Otherwise it will do nothing. The arrow at the lower part of the importer shows which way the character body will be facing to, as well as the center of the floor pane of the importer is where the character object will positioned.
