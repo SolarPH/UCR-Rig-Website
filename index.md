@@ -22,10 +22,10 @@ Links:
 - [Setting up and Running the Importer](ManualPages/importer-setup.md)
 
 ---UCR ObjectBinder---
-- None at the moment...
+- Accessing objects from a shortcut
 
 ---Mesh Set---
-- None at the moment...
+- Turning on Subsurface Scattering
 
 ---Bone Set---
 - None at the moment...
