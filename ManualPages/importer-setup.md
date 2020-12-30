@@ -34,5 +34,8 @@ Importer Wizard can be used to import any character at any location of the scene
   > - Regular Cape - the usual cape used in Minecraft
   > - Optifine Cape - the one sometimes being used on servers. Uses banner texture most of the time.
 
-9. Run
+9. Importer Code
+ > - Current Code is a copy-able code which you can use in other importers present on the scene, or save in your notes so that you just need to type the code in the New Code field that sets the value of each settings in the Importer (Excluding skin and SSS data).
+ 
+10. Run
   > When all is valid, pressing this button will import your character. Otherwise it will do nothing.
