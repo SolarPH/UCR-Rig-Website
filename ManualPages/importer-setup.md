@@ -11,7 +11,7 @@ Skin Path
   > It is the file path of your skin. In the importer model, the left side will be colored Green if it is acceptable, or the default will be used.
 
 SSS / Subsurface Scattering File Path (Only in UCR 2.2)
-  > It is the file path for the mask used by Subsurface Scattering. Usually the same as the skin file but all non-skin parts are removed. - - - Click [here](ManualPages/subsurface-scattering.md) to see the SubSurface Scattering Render Samples.
+  > It is the file path for the mask used by Subsurface Scattering. Usually the same as the skin file but all non-skin parts are removed. [Click here](subsurface-scattering.md) to see the SubSurface Scattering Render Samples.
   
 <p align=center><img src="../images/importer-setup/0003.png"></p>
   
