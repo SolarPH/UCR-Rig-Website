@@ -42,10 +42,10 @@ Importer Wizard can be used to import any character at any location of the scene
 <p align=center><img src="../images/importer-setup/0002.png"></p>
 
 10. Run
-  > When all is valid, pressing this button will import your character. Otherwise it will do nothing.
+  > When all is valid, pressing this button will import your character. Otherwise it will do nothing. The arrow at the lower part of the importer shows which way the character body will be facing to, as well as the center of the floor pane of the importer is where the character object will positioned.
   
 11. Select After Run
   > This setting indicates if what will be selected after the import finishes.
-  >  >  None: Deselects everything on the scene after import.
-  >  >  This Importer: Does not deselect the current importer.
-  >  >  Generated Binder: Deselects the current importer and selects the generated character.
+  >  -  None: Deselects everything on the scene after import.
+  >  -  This Importer: Does not deselect the current importer.
+  >  -  Generated Binder: Deselects the current importer and selects the generated character.
