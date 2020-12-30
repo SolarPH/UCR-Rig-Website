@@ -37,3 +37,5 @@ Links:
 - None at the moment
 
 If I have missed something, please contact me via Discord: @SolarPH_GFX_MC#4914
+
+[<<TEST HOMEPAGE>>](HTML/Homepage.html)
