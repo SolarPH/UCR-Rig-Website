@@ -13,6 +13,8 @@ Importer Wizard can be used to import any character at any location of the scene
 3. SSS / Subsurface Scattering File Path (Only in UCR 2.2)
   > It is the file path for the mask used by Subsurface Scattering. Usually the same as the skin file but all non-skin parts are removed.
   
+<p align=center><img src="../images/importer-setup/0003.png"></p>
+  
 4. V3 Type (UCR 2.2) / V1 Type (UCR 1.3)
   > It is the type of face you want to use.
   > - Square Mouth and Rounded Square Mouth for UCR 2.2
