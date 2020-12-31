@@ -176,3 +176,7 @@ ObjectBinder Updates:
 
 UCR Help Block Updates:
 - Changed VersionChecker Target Address prior to the website transfer.
+
+Mesh Updates:
+- Fixed unlinked deformations for Alex Arms
+- Added new deformers
