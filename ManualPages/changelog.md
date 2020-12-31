@@ -167,3 +167,12 @@ Facial Rig Updates:
 - Compatibility fixes for LipSync Override
 - Added another control (for the Lipsync Override Mode)
 - Fixed Control Switch Lag
+
+----------
+Build 0092 New Years Patch (January 1, 2021)
+
+ObjectBinder Updates:
+- Added a Cape Field and Shortcut Key
+
+UCR Help Block Updates:
+- Changed VersionChecker Target Address prior to the website transfer.
