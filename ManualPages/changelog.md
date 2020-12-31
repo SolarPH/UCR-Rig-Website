@@ -169,7 +169,7 @@ Facial Rig Updates:
 - Fixed Control Switch Lag
 
 ----------
-Build 0092 New Years Patch (January 1, 2021)
+Build 0093
 
 ObjectBinder Updates:
 - Added a Cape Field and Shortcut Key
@@ -180,3 +180,6 @@ UCR Help Block Updates:
 Mesh Updates:
 - Fixed unlinked deformations for Alex Arms
 - Added new deformers
+
+Bones Updates:
+- Updated the reset commands section from manual input to press-and-run system
