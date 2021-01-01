@@ -180,6 +180,7 @@ UCR Help Block Updates:
 Mesh Updates:
 - Fixed unlinked deformations for Alex Arms
 - Added new deformers
+- Rearranged all existing deformers
 
 Bones Updates:
 - Updated the reset commands section from manual input to press-and-run system
