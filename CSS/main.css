@@ -1,7 +1,39 @@
-body {
-        background-image: url('../images/BG/0001.png');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-        background-position: center;
-    }
+.bodyBG {
+    background-image: url('../images/BG/0001.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.fullVW {
+	height: auto;
+}
+
+.noTopMargin {
+	margin-top: 0vw;
+	padding:0;
+}
+
+.noBottomMargin {
+	margin-bottom: 0vw;
+	padding:0;
+}
+
+.noTBMargin {
+	margin-top: 0vw;
+	margin-bottom: 0vw;
+	padding:0;
+}
+
+.noSideMargin {
+	margin-left: 0vw;
+	margin-right: 0vw;
+	padding: 0;
+}
+
+.bgAlpha {
+	background-image: url('../images/BG/0004.png');
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-size: 50vw auto;
