@@ -10,6 +10,12 @@
 	height: auto;
 }
 
+.headerImage {
+	width: 75%;
+	height: auto;
+	min-width: 256px;
+}
+
 .noTopMargin {
 	margin-top: 0vw;
 	padding:0;
