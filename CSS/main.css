@@ -35,9 +35,10 @@ iframe{
 	min-width: 256px;
 }
 
-.footerImage {
-	position: relative;
-	bottom:0;
+.headerImage2 {
+	width: 100%;
+	height: auto;
+	min-width: 256px;
 }
 
 .noTopMargin {
