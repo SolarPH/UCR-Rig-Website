@@ -9,7 +9,7 @@
 	width: 25%;
 	min-width: 128px;
     border-image: url('../images/BORDERS/0001.png');
-	border-image-slice: 49.9999% fill;
+	border-image-slice: 49% fill;
     border-image-repeat: repeat;
 	text-align: left;
 }
