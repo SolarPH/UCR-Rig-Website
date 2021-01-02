@@ -30,13 +30,13 @@ iframe{
 }
 
 .headerImage {
-	width: 75%;
+	width: 75vw;
 	height: auto;
 	min-width: 256px;
 }
 
 .headerImage2 {
-	width: 100%;
+	width: 100vw;
 	height: auto;
 	min-width: 256px;
 }
