@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home | Universal Character Rig 2.2</title>
+		<link rel="icon" href="../../images/META/0002.png" type="image/x-icon">
+		<link rel="stylesheet" href="../../CSS/main.css">
+		<link rel="stylesheet" href="../../CSS/buttons.css">
+		<link rel="stylesheet" href="../../CSS/borders.css">
+    </head>
+    <body class="noTBMargin noSideMargin bodyBG">
+		<div class="noTopMargin noSideMargin">
+			<p align=center class="noTBMargin" style="color:white">
+				<img src="../../images/BG/0005.png" alt="HeaderImage | Minecraft UCR 2.2" class="headerImage2">
+				<br><br>
+			</p>
+			<!--ITEM START-->
+			<div style="color:white" class="textcenter noTBMargin">
+			<font size="5vh">
+			<b>Setting up the Importer</b>
+			</font>
+			<br><br><img src="../../images/rig_renderfiles/Importer_Base.png" width="25%" height="25%">
+			</div>
+			<!--ITEM END-->
+			<br>
+			<!--ITEM START-->
+			<div style="color:white" class="bordercenter border02 noTBMargin">
+			<font size="5vw">The Importer Wizard is a tool for UCR that enables the user to create any character of any preset type
+			at any location and in any heirarchy on your active scene.</font>
+			<br>
+			<br>
+			<p align=center class="noTBMargin">
+				<img src="../../images/PNG/0001.png" width="50%" height="50%">
+			</p>
+			<b>Fields:</b>
+			<br>
+			<br>1. Character Name
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;- It is the character name you assign to a character model before import. The whole rig will be renamed to the
+			character name you chose.
+			<br>
+			<br><b>2. Skin Path</b>
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;- It is the file path of your skin file. It will be set on your character's mesh upon creation.
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>NOTE: The Importer would not run if the skin is an invalid file. The "SKIN" side will turn <font style="color:red">RED</font>
+			if the skin file cannot be used.</b>
+			<br>
+			<br><b>3. SSS / Subsurface Scattering File Path</b>
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;- It is the file path for the skin mask used by the Subsurface Scattering Layer. See the image below for the
+			comparison of the Skin and Subsurface Scattering layers look like.
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>NOTE: The importer would not run if the SSS File is invalid. The "SSS" side will turn <font style="color:red">RED</font>
+			if the SSS file cannot be used.</b>
+			<br><br>
+			<p align=center class="noTBMargin">
+			<img src="../../images/PNG/0003.png" width="50%" height="50%">
+			</p>
+			<br><b>4. V3 Type</b>
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;- It is the type of face you want your character to have.
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Square Mouth
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Rounded Square Mouth
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>NOTE: Some legacy V2/V1 facial rigs may be available on the pack.</b>
+			<br>
+			<br><b>5. Character Type</b>
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;- Here you can choose between the Steve(4px) arms or the Alex(3px arms) body model.
+			<br>
+			<br><b>6. Mesh Type</b>
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;- Here you can choose between 3 UVW Types:
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Freesize - Traditional UV Mesh Setup which can contain 64px and larger skin format.
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* High-Poly - Pinpoint UV Mesh Setup which can only contain 64px skin format,
+			specialized for Extrusion Compatibility.
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Extra High Poly - Pinpoint UV Mesh Setup which can only contain 128px skin format,
+			specialized for Extrusion Compatibility.
+			<br>
+			<br><b>7. Include Bones Toggle</b>
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;- You can choose if you want to include Body Control set for the character. You can turn this off
+			in cases of you already had a set of bones to use for the character being created, or if you want to only create a character
+			ready for extrusion.
+			<br>
+			<br><b>8. Cape Type</b>
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;- Here you can choose what cape you want to be included with your character.
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Regular Cape - This is the cape model commonly granted during MineCon.
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Optifine Cape - This is the cape model included when using Optifine.
+			<br>
+			<br><b>9. Importer Code</b>
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;- The Current Code field shows what is the importer code based on its current settings. Inputting
+			a code on the New Code Field then applying it using a special toggle will instantly change your importer settings. Be aware
+			that it will also change the character name field to whatever name was past the Underscore part of the code.
+			<br>
+			<br><b>10. Run</b>
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;- This special toggle will attempt to create a character based on your importer settings (depending on
+			the conditions stated on this page in numbers 2 and 3). This will also channge the character's position, rotation, and scale, relative
+			to the importer's coord settings.
+			<br><br>
+			<p align=center class="noTBMargin">
+			<img src="../../images/PNG/0002.png" width="50%" height="50%">
+			</p>
+			<br><b>11. Select After Run</b>
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;- This setting indicates if what will be selected on the scene after a character has been made.
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* None: This setting deselects everything from the scene.
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* This Importer: This will make the selection stay at the current importer.
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Generated Binder: Selects the generated character root after the import.
+			<br>
+			</div>
+			<!--ITEM END-->
+			<br>
+			<p align=center class="noTopMargin noBottomMargin">
+				<a href="../Homepage.html" class="UCRb0001">Back to Homepage</a>
+			</p>
+		</div>
+    </body>
+</html>
+<!--META START-->
+<meta name="title" content="Changelog | Universal Character Rig 2.2">
+<meta name="description" content="This is the documentation website for Universal Character rig created by SolarPH for Cinema4D Minecraft Animators!">
+<meta name="keywords" content="Minecraft,Cinema 4D, Minecraft Rigs,Rigs">
+<meta name="language" content="English">
+<meta name="revisit-after" content="1 day">
+<meta name="author" content="SolarPH">
+
+<meta property="og:title" content="Home | Universal Character Rig 2.2" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://solarph.github.io/UCR-Rig-Website/" />
+<meta property="og:image" content="https://solarph.github.io/UCR-Rig-Website/images/META/0001.png" />
+<meta property="og:description" content="This is the documentation website for Universal Character rig created by SolarPH for Cinema4D Minecraft Animators!" />
+<meta name="theme-color" content="#AE00FF">
+
+<meta name="twitter:card" content="summary_large_image">
+<!--META END-->
