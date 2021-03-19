@@ -1,0 +1,16 @@
+Build 0089
+
+Bone Set Updates:
+- Controller Visibility Fixed for Local and Global Hand controllers
+
+Facial Rig Updates
+- Fixed unusual artifacts on both facial rig
+- Fixed Inheritance V2 UVW Map
+- Fixed misread of User Data for Customizable Teeth
+
+Facial Addons Updates
+- Fixed position of Teeth Container (Reset to origin)
+- Fixed default color display of Eyebrow Color to OFF
+
+Mesh Set Updates:
+- Added a script to change SSS Mode from Steve to Alex version prior to Mesh Merge

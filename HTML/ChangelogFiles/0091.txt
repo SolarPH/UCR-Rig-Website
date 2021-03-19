@@ -1,0 +1,21 @@
+Build 0091
+
+Importer Updates:
+- Added Cape Texture Field
+- Added CodeGen Core (Useful for copy-pasting Importer Settings, including Character Name. Can be used for bug reporting)
+
+Mesh Set Updates:
+- Fixed SSS Independency on Main Package
+
+Build 0091 LayerFix (November 29, 2020)
+
+Facial Rig Updates:
+- Removed 2 faulty nodes
+
+Build 0091 UserDataFix (December 05, 2020)
+
+Importer Updates:
+- Added another User Data that lets you choose which to have as an Active Object after Importer Run
+
+Qube Set Updates:
+- Updated Pupil Object Reference in accordance to Facial MoCap Expansion Pack (Co-Developed with FrostTheNetwork)

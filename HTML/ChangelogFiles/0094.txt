@@ -1,0 +1,21 @@
+Build 0094
+
+Mesh Set Updates:
+- New Object Heirarchy
+- Mesh Swapper Compatibility
+- Mesh Axis Correction
+- New Single-Bend Ankle
+- New Mesh Type "Dummy"
+
+Bone Set Updates:
+- New Single-Bend Ankle Support
+- Premade Poses updated to B0094 Bones
+
+Importer Set Updates:
+- Added the "Dummy" on the mesh selection
+
+Facial Rig Updates
+- Changed Pupil Depth
+
+Other Updates:
+- Added the Rig Tool "Mesh Swapper"

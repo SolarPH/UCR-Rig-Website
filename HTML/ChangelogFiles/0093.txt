@@ -1,0 +1,24 @@
+Build 0093 (January 2, 2021)
+
+ObjectBinder Updates:
+- Added a Cape Field and Shortcut Key
+
+UCR Help Block Updates:
+- Changed VersionChecker Target Address prior to the website transfer.
+
+Mesh Updates:
+- Fixed unlinked deformations for Alex Arms
+- Added new deformers
+- Rearranged all existing deformers
+
+Bones Updates:
+- Updated the reset commands section from manual input to press-and-run system
+
+Build 0093 Resize Fix (January 5, 2021)
+
+Importer Updates:
+- Fixed the size of the importer when getting it from the folder.
+- Changed some lines in code that prevents initial bone break upon import.
+
+Mesh Updates:
+- Fixed faulty bends

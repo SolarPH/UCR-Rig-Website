@@ -1,0 +1,24 @@
+Build 0092
+
+Pack Updates:
+- Removed version indicator on the preset folder name itself.
+- Uses a new version indicator (You can check your version via the UCR Help Block now)
+
+Importer Updates:
+- Minor Code Rewrite
+
+Facial Rig Updates:
+- Minor XPresso Rebuild
+- Added a Separate Mode Eyelid Multiplier Control on the Q-Adapter
+- Added a switch that hides the Q-Adapter
+- Tweak for Compatibility: Facial Animator Pack (LipSync, AutoBlink and Face MoCap)
+
+UCR Help Block Updates:
+- Version field added.
+
+Build 0092 Express Patch (December 11, 2020)
+
+Facial Rig Updates:
+- Compatibility fixes for LipSync Override
+- Added another control (for the Lipsync Override Mode)
+- Fixed Control Switch Lag

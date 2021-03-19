@@ -1,0 +1,13 @@
+Build 0088
+
+Importer Updates:
+- Importer Core have syntax updates to match import settings.
+- Fixed Initial Layer Status
+- Got rid of the import lag due to Maxon's changes with script behavior
+- Python syntax fixes to get rid of accidental keyword override
+
+Object Binder Changes:
+- Fixed the script so that it wouldn't maake the whole scene go invisible when a binder is present at the scene something gets moved.
+
+Mesh Set Updates:
+- Merged Steve and Alex Mesh
