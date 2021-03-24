@@ -1,15 +1,18 @@
-Build 0094
+Build 0094 (March 24, 2021)
 
 Mesh Set Updates:
 - New Object Heirarchy
 - Mesh Swapper Compatibility
 - Mesh Axis Correction
-- New Single-Bend Ankle
+- New Single-Bend Wrist and Ankle
 - New Mesh Type "Dummy"
+- New Subsurface Scattering Profiles added
 
 Bone Set Updates:
-- New Single-Bend Ankle Support
+- New Single-Bend Wrist and Ankle Support
 - Premade Poses updated to B0094 Bones
+- Fixes with Reset Module not resetting neck correctly
+- Fixed stabilize head re-snapping to global upright position when turned on again
 
 Importer Set Updates:
 - Added the "Dummy" on the mesh selection
