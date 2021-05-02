@@ -1,0 +1,41 @@
+Build 0095 (May 05, 2021)
+
+Character Creator Updates:
+- New Character Importer
+- Added the ability to compose the rig depending on the setting mode
+- Added the ability to check for Import Logs
+- Added the ability to import Finger Addons
+
+Object Binder Updates:
+- Fixed bug with bones breaking when binder is not on 1x1x1 scale.
+
+Mesh Updates:
+- Changed stuff regarding a missing variable for the Mesh Switcher
+- Reduced Object Referencing
+- Forced Mesh Mode changed. Now works when linked!
+- Added Knee Object Holders for legs
+- Added Post-Render Smooth-Edge Shading
+- Converted to Spline Object with its own spline design
+- Changed Base Skin
+- Upgraded Extrusion Assistant with Quick-Exit/Quick-Switch, and Quick-Close User Interface
+
+Bone Updates:
+- Fixed inconsistent Rig ID values
+- Changed spline design
+
+Facial Rig Updates:
+- Added missing variables on Face Rig's Qube
+
+Cape Updates:
+- Added On-Deformer Editing and Shortcuts
+
+Other Updates:
+- Updated Content Browser Graphics
+- Added the Sound Module with R19 and R20+ Recording Support
+- Added the AutoBlink Module
+- Rewritten Linking Codes
+- Added alerts for errors (Experimental for Pre-R19 versions)
+- Updated keyframables
+- Mesh Swapper A (Bundle to Mesh) Rewrite
+- Added Mesh Swapper B (Mesh to Mesh)
+- Re-added Preset Versions
