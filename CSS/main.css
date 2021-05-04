@@ -7,8 +7,8 @@
 }
 
 .bodySafeArea_side {
-	margin-left: 64px;
-	margin-right: 64px;
+	margin-left: 5vw;
+	margin-right: 5vw;
 }
 
 .widthFit {
@@ -41,7 +41,7 @@ iframe{
 .headerImage {
 	width: 25vw;
 	height: auto;
-	min-width: 256px;
+	min-width: 128px;
 	max-width: 384px;
 }
 

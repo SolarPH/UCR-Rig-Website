@@ -11,5 +11,27 @@
 .i0003 {
 	position:relative;
 	margin-bottom:0vw;
-	z-index:-2
+	z-index:-2;
+}
+
+.i0004 {
+	position: relative;
+	margin-bottom: 0vw;
+	z-index: -3;
+}
+
+.i0005 {
+	position: relative;
+	margin-bottom: -46vw;
+	z-index: -4;
+}
+
+.i0005panel {
+	position:relative;
+	left:5vw;
+	width:89%;
+	height:42vw;
+	margin-bottom: 4vw;
+	z-index: 1;
+	overflow: auto;
 }
